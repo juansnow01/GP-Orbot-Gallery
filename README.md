@@ -1,7 +1,7 @@
 # GP-Orbot-Gallery
 Removing some anchor tags with duplicate screenshots.
 
-Was browsing the (Orbot Gallery Page)[https://guardianproject.info/apps/org.torproject.android/] and spotted some duplicate photos. Using the inspector function I removed the anchor tags to show what the change would look like for the web page.
+Was browsing the [Orbot Gallery Page](https://guardianproject.info/apps/org.torproject.android/) and spotted some duplicate photos. Using the inspector function I removed the anchor tags to show what the change would look like for the web page.
 
 There was no repo for the website so I couldn't do a pull request.
 
